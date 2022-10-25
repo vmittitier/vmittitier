@@ -3,7 +3,7 @@
 Here we are to make a better digital environment for everyone.
 
 - 🔭 I’m currently open for FrontEnd opportunities and projects.
-- 🌱 I’m currently learning <b>ReactJS<b>
+- 🌱 I’m currently learning <b>ReactJS</b>
 - 🤔 I’m looking for help with FrontEnd positions.
 - 💬 Ask me about anything
 - 📫 How to reach me: https://linkedin.com/in/viniciusmittitier  ||   https://www.instagram.com/vinimittitier/
