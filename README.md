@@ -15,7 +15,7 @@ https://github.com/vmittitier/react
 
 _____________________________________
 
-//LAST FULL STACK PROJECT
+// LAST FULL STACK PROJECT
 
  React CRUD fron-end at Netlify cloud
 https://react-bank.netlify.app/
