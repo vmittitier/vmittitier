@@ -6,14 +6,21 @@ Here we are to make a better digital environment for everyone.
 - 🌱 I’m currently learning ReactJS
 - 🤔 I’m looking for help with FrontEnd positions.
 - 💬 Ask me about anything
-- 📫 How to reach me: linkedin.com/in/viniciusmittitier  ||   ig @vmittitier
-_________________________________________________________________
-LAST FULL STACK PROJECT
+- 📫 How to reach me: https://linkedin.com/in/viniciusmittitier  ||   https://www.instagram.com/vinimittitier/
 
-React CRUD fron-end at Netlify cloud
+_____________________________________
+
+// MAIN STUDY REPO:
+https://github.com/vmittitier/react
+
+_____________________________________
+
+//LAST FULL STACK PROJECT
+
+ React CRUD fron-end at Netlify cloud
 https://react-bank.netlify.app/
 
-as H2 DataBase at Heroku cloud with Java on its backend.
+H2 DataBase at Heroku cloud with Java on its backend.
 https://std-crud-bankaccount-app.herokuapp.com/account
 
 Documentation with swagger:
