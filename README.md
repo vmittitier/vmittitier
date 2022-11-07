@@ -8,16 +8,25 @@ Here we are to make a better digital environment for everyone.
 - 💬 Ask me about anything
 - 📫 How to reach me: https://linkedin.com/in/viniciusmittitier  ||   https://www.instagram.com/vinimittitier/
 
-_____________________________________
 
 // MAIN STUDY REPO:
+
 https://github.com/vmittitier/react
+
+_____________________________________
+<b>FRONT-END</b>
+
+// LAST REACT NEXT STUDY PROJECTS:
+
+React/Next Youtube Playlist
+
+https://aluratube-lime.vercel.app/
 
 _____________________________________
 
 // LAST FULL STACK PROJECT
 
- React CRUD fron-end at Netlify cloud
+React CRUD fron-end at Netlify cloud
 https://react-bank.netlify.app/
 
 H2 DataBase at Heroku cloud with Java on its backend.
