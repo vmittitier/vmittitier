@@ -7,12 +7,6 @@ Here we are to make a better digital environment for everyone.
 - 🤔 I’m looking for help with FrontEnd positions.
 - 💬 Ask me about anything
 - 📫 How to reach me: https://linkedin.com/in/viniciusmittitier  ||   https://www.instagram.com/vinimittitier/
-
-
-// MAIN STUDY REPO:
-
-https://github.com/vmittitier/react
-
 _____________________________________
 <b>FRONT-END</b>
 
@@ -28,7 +22,7 @@ https://front-week-html-css-js.vercel.app/
 
 _____________________________________
 
-// LAST FULL STACK PROJECT
+// LAST FULL STACK BACK TO FRON END STUDY PROJECT
 
 React CRUD fron-end at Netlify cloud
 https://react-bank.netlify.app/
@@ -38,4 +32,9 @@ https://std-crud-bankaccount-app.herokuapp.com/account
 
 Documentation with swagger:
 https://std-crud-bankaccount-app.herokuapp.com/swagger-ui.html
+
+_____________________________________
+// MAIN STUDY REPO:
+
+https://github.com/vmittitier/react
 
