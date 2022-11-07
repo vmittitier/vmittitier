@@ -18,9 +18,13 @@ _____________________________________
 
 // LAST REACT NEXT STUDY PROJECTS:
 
-React/Next Youtube Playlist
+- React/Next Youtube Playlist
 
 https://aluratube-lime.vercel.app/
+
+- Landing page HTML+CSS+JS
+
+https://front-week-html-css-js.vercel.app/
 
 _____________________________________
 
